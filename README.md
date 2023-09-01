@@ -23,7 +23,7 @@ LinearRegression, DecisionTree, RandomForest, UNet, SegNet, SSD
 <td align="left"><a href="https://github.com/gazizovilsur26/My_github_projects/tree/main/Определение_тональности_текста" rel="nofollow">Определение тональности текста</a></td>
 <td>Разработать модель машинного обучения для классификации комментариев на позитивные и негативные в новом сервисе интернет-магазина, 
 с использованием данных о токсичности правок, и достичь F1-метрики не менее 0.75 для оценки качества модели. </td>
-<td align="right">Pandas, Tensorflow, Keras, AdamW, nltk, CatBoost</td>
+<td align="right">Pandas, Tensorflow, Keras, AdamW, nltk, CatBoost, Bert</td>
 </tr>
 <tr>
 <td align="left"><a href="https://github.com/gazizovilsur26/My_github_projects/tree/main/Анализ_поведения_пользователей" rel="nofollow">Анализ поведения пользователей и прогнозирование выручки в интернет-магазине</a></td>
