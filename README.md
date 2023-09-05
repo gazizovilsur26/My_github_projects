@@ -2,7 +2,7 @@
 Здесь собраны мои проекты
 
 Основные инструменты и библиотеки, которые я использую: Pandas, Seaborn, Matplotlib, Phik, Sklearn, Lightgbm, Catboost, PyTorch, EfficientNet_b2, ResNet, VGG,
-LinearRegression, DecisionTree, RandomForest, UNet, SegNet, SSD
+LinearRegression, DecisionTree, RandomForest, UNet, SegNet, SSD, YOLO
 <table>
 <thead>
 <tr>
